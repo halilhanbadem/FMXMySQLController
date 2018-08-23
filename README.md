@@ -1,5 +1,5 @@
-# FMXMySQLConnector
-Delphi FMX MySQL Connector
+# FMXMySQLController
+Delphi FMX MySQL Controller
 
 
 Requirements:
