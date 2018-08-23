@@ -1,4 +1,4 @@
-# FMXMySQLController
+# FMX MySQL Controller (Android)
 Delphi FMX MySQL Controller
 
 
